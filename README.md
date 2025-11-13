@@ -28,6 +28,7 @@ STEP-5: Display the obtained cipher text.
 
 
 ## Program:
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -135,6 +136,6 @@ int main() {
  printf("Cipher text: %s\n", str);
  return 0;
 }
-
+```
 ## Output:
 <img width="683" height="374" alt="image" src="https://github.com/user-attachments/assets/54c6ad50-fd65-4f44-9c4e-a1e34b7ff55f" />
